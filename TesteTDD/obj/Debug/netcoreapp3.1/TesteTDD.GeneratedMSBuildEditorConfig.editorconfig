@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TesteTDD
+build_property.ProjectDir = C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TesteTDD\

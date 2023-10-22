@@ -1,0 +1,13 @@
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.exe
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.deps.json
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.json
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.runtimeconfig.dev.json
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.dll
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\bin\Debug\netcoreapp3.1\TDD.pdb
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfoInputs.cache
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.AssemblyInfo.cs
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.csproj.CoreCompileInputs.cache
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.dll
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.pdb
+C:\dotnet\bootcamp-trilha-dotnet\TDD\TDD\TDD\obj\Debug\netcoreapp3.1\TDD.genruntimeconfig.cache
